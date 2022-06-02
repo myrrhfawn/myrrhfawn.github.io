@@ -951,6 +951,10 @@ header, .first_page{
     .left_text {
         font-size: 18px;
     }
+    
+    .first_content h1{
+        font-size:35px; 
+    }
 }
 
 @media only screen and (max-width: 320px){
